@@ -33,7 +33,7 @@ Install dependencies
   pip install pygame
 ```
 
-Start the server
+Start the game
 
 ```bash
   python pacman.py
